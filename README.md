@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Say 'I Agree' In Japanese.](https://www.realblog.dev/how-to-say-i-agree-in-japanese)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
