@@ -22,7 +22,7 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Say &#39;I Agree&#39; In Japanese.](https://www.realblog.dev/how-to-say-i-agree-in-japanese)
+- [How to Say &#39;I Agree&#39; In Japanese.](https://blog.virtualacademy.dev/how-to-say-i-agree-in-japanese)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages, Frameworks and Libraries, Tools 
