@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages, Frameworks and Libraries, Tools 
-
+|                  |                    |
 | :------------- | :-------------------- |
 | Programming Languages | Python, Java |
 | SQL / NoSQL Databases | SQLite, MongoDB, PostgreSQL |
