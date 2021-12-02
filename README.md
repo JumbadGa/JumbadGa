@@ -5,7 +5,7 @@
 
 
 
-- 📝 I regularly write articles on [www.realblog.dev](www.realblog.dev)
+- 📝 I regularly write articles on [https://blog.virtualacademy.dev](https://blog.virtualacademy.dev)
 
 - 💬 Ask me about **Python, Cloud, Linux**
 
