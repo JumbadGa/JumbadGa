@@ -26,5 +26,7 @@
 | Cloud Environment | Amazon Web Services, Azure Cloud |
 | Operating Systems/Tools/Uilities | Linux, Git, Jenkins, NGINX |
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jumbadga&show_icons=true&locale=en" alt="jumbadga" /></p>
 
+<!--
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jumbadga&show_icons=true&locale=en" alt="jumbadga" /></p>
+-->
