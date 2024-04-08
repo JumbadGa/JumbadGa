@@ -11,15 +11,6 @@
 
 - I can Speak **Japanese, English, Hindi, Marathi**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jumbadga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jumbadga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jumbadga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jumbadga" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jumbadga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jumbadga" height="30" width="40" /></a>
-<a href="/https://www.realblog.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.realblog.dev/rss.xml" height="30" width="40" /></a>
-</p>
-
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Say &#39;I Agree&#39; In Japanese.](https://blog.virtualacademy.dev/how-to-say-i-agree-in-japanese)
